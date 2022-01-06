@@ -46,3 +46,20 @@ p{
     width: 100%;
     background: url(images/dream-bg.png) right bottom no-repeat;
 }
+.Box-part{
+    display: flex;
+    width: 100%;
+}
+.Experience-box{
+    box-shadow: 10px 10px 50px grey ;
+    width:40%;
+    padding: 30px 20px;
+}
+#Full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightsalmon,tomato);
+
+}
+
+#Baby-Dev{
+}
